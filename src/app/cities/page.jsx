@@ -39,9 +39,9 @@ const Cities = () => {
       </section>
       {/* //////////////// third section */}
       <section className="mt-30 mb-10 md:bg-[#B6B6B6] md:h-[700px] md:gap-0 gap-5 md:w-[100%] m-auto w-[90%] flex items-center justify-evenly md:flex-row flex-col">
-        <Image src={thirdImg1} alt="bike" />
-        <Image src={thirdImg2} alt="bike" />
-        <Image src={thirdImg1} alt="bike" />
+        <Image src={thirdImg1} alt="bike" className="w-[25%]" />
+        <Image src={thirdImg2} alt="bike" className="w-[25%]" />
+        <Image src={thirdImg1} alt="bike" className="w-[25%]" />
       </section>
       {/* ///////////////// fifth section */}
       <section className="my-10 md:max-w-[1700px] w-[90%] md:gap-0 gap-5 m-auto flex items-start relative md:h-[1200px] md:flex-row flex-col">
