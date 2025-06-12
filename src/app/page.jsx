@@ -10,7 +10,7 @@ const bikeSecond = "/Text-media-new_background.png";
 
 const Page = () => {
   return (
-    <main className="max-w-[1900px] m-auto">
+    <main className="m-auto">
       {/* ////////// first section */}
       <section
         className="md:h-[900px] h-[400px] bg-cover bg-center flex justify-center flex-col px-5"
